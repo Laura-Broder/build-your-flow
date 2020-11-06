@@ -8,7 +8,7 @@ In the root directory run in the terminal:
 
     $ npm install
 
-    $ cd ../client
+    $ cd client
 
     $ npm install
 
